@@ -25,7 +25,7 @@ A simple and modern sign-in form that allows users to authenticate using their p
 ### 🚀 How to Use  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/daily-ui-challenge.git
+   git clone https://github.com/iamjhay/sign_in_form.git
    ```
 2. Navigate to the project directory and install dependencies:  
    ```bash
