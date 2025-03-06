@@ -1,15 +1,42 @@
-# Welcome to the daily task challenge - Day 1 👋
+# Welcome to the **Daily UI Challenge!** 🚀  
+Each day, we create a new mobile app screen to enhance the UI/UX and mobile development skills.  
 
-### Task for the day
-### Sign-In Form with Phone Number 
+# 📱 Day 1 - Sign-In Form with Phone Number 👋
 
+## 📌 Challenge for Today: **Sign-In Form with Phone Number**  
+A simple and modern sign-in form that allows users to authenticate using their phone number.
 
-<h1 align="left">Hey 👋 What's up?</h1>
+### 🎨 Features:
+- Minimalist and user-friendly design  
+- Input field 
+- Sign in with socials
 
-###
+### 🛠️ Technologies Used:
+- Expo - React Native & Flutter
+- Styled Components
+  **PRO LEVELS**
+- Form Validation (e.g., Yup & Formik)  
 
+### 📸 Screenshot  
 <div align="center">
   <img height="700" src="https://imagedelivery.net/_QLyhNQIk5K6p8kNrFQcIA/8437d890-3537-4256-35b5-024b23d2f300/public"  />
 </div>
 
-###
+### 🚀 How to Use  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/daily-ui-challenge.git
+   ```
+2. Navigate to the project directory and install dependencies:  
+   ```bash
+   cd sign-in-form && npm install
+   ```
+3. Run the project on your mobile emulator or device:  
+   ```bash
+   npm start
+   ```
+
+### 💡 Why This Challenge?  
+Practicing UI/UX design daily helps improve creativity, problem-solving skills, and mastery of design principles.
+
+---
