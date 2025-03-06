@@ -1,7 +1,7 @@
 # Welcome to the **Daily UI Challenge!** 🚀  
 Each day, we create a new mobile app screen to enhance the UI/UX and mobile development skills.  
 
-# 📱 Day 1 - Sign-In Form with Phone Number 👋
+###📱 Day 1 - Sign-In Form with Phone Number 👋
 
 ## 📌 Challenge for Today: **Sign-In Form with Phone Number**  
 A simple and modern sign-in form that allows users to authenticate using their phone number.
